@@ -9,5 +9,4 @@
     
      steps:
        - checkout
-       - run: Write-Host 'Hello, Windows'
        - run: dotnet build
